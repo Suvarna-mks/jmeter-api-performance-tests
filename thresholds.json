@@ -1,0 +1,7 @@
+{
+  "max_error_rate": 0.01,
+  "p95_ms": {
+    "default": 200,
+    "GET /search": 300
+  }
+}
